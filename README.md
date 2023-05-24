@@ -1,2 +1,0 @@
-# AnshGame
-AnshGame minsweeper
